@@ -2,7 +2,7 @@
 
 React Food is a simple and modern food ordering website where users can browse food items, view details, add items to a cart, and place orders. The application is built using **React.js** for the frontend and **Node.js** for the backend. It fetches food images and details from the backend and allows users to place orders with ease.
 
-![React Food](./assets/image.png)
+![React Food]([./assets/image.png](https://github.com/JinLee0811/simple_Order_Website/blob/main/src/assets/image.png?raw=true))
 
 ## Features
 
